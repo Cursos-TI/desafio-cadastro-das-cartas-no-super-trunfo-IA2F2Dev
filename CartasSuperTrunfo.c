@@ -5,8 +5,7 @@ int main()
     // Declaração de variáveis
     char    estado1, estado2, cod1[3], cod2[3], cidade1[50], cidade2[50];
     float   area1, area2, pib1, pib2, densidadep1, densidadep2, pibpc1, pibpc2, superpoder1, superpoder2,
-            comparacao_populacao, comparacao_area, comparacao_pib, comparacao_npontot,
-            comparacao_densidadep, comparacao_pibpc, comparacao_superpoder;
+            
     int     npontot1, npontot2;  
     unsigned long int  populacao1, populacao2;         
     
